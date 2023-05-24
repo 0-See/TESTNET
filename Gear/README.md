@@ -2,10 +2,9 @@
 <img width="100" height="100" src=https://github.com/0-See/TESTNET/assets/128711050/00998be5-9f7c-498d-aef8-c46f3f5ae655
 </p>
 
-# Official Links
 [Website](https://www.gear-tech.io/) [Twitter](https://twitter.com/gear_techs) [Discord](https://discord.com/invite/7BQznC9uD9)
 
-# [Explorer](https://telemetry.gear-tech.io/#list/0x92ed36f0a4a26169cba7c6990d51055c76b6b89de268568615a041eebb619a0e)
+[Explorer](https://telemetry.gear-tech.io/#list/0x92ed36f0a4a26169cba7c6990d51055c76b6b89de268568615a041eebb619a0e)
 
 # Install Node Guide Gear Staging Testnet V7
 
