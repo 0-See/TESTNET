@@ -1,4 +1,8 @@
-# Running an Elixir Validator
+<p align="center">
+<img width="100" height="100" src=https://github.com/0-See/TESTNET/assets/128711050/c92c296c-b863-4704-a724-cf7a9bddb904
+</p>
+
+# Testnet v2 Validator Setup Guide
 
 ### [Tracking your validator's metrics](https://metrics.elixir.finance/)
 
@@ -20,7 +24,7 @@ cd elixir
 ### Download the Dockerfile
 
 ```bash
-curl -O https://testnet-1-files.elixir.finance/Dockerfile
+curl -O https://files.elixir.finance/Dockerfile
 ```
 
 ### Edit Dockerfile
